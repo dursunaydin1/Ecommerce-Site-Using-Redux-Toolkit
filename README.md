@@ -1,6 +1,6 @@
 <h1>E-Commerce Uygulaması</h1>
 
-Bu proje, bir e-ticaret uygulamasının temel özelliklerini içeren bir web uygulamasını sağlar. Aşağıda projenin özelliklerini ve kullanım talimatlarını bulabilirsiniz.
+Bu proje, bir e-ticaret uygulamasının temel özelliklerini içeren React-Redux-Toolkit bir web uygulamasını sağlar. Aşağıda projenin özelliklerini ve kullanım talimatlarını bulabilirsiniz.
 
 <h2>Özellikler</h2>
 Redux Toolkit kullanılarak durum yönetimi sağlanmıştır.</br>
@@ -48,4 +48,4 @@ CSS (Stilizasyon için)</br>
 Sanal Veritabanı</br>
 
 <h2><a href="https://ecommerce-site-using-redux-toolkit.netlify.app">Canlı Önizleme</a></h2>
-<img src="" alt="">
+<img src="./src/assets/images/screen.gif" alt="">
