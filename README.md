@@ -3,17 +3,21 @@
 Bu proje, bir e-ticaret uygulamasının temel özelliklerini içeren React-Redux-Toolkit bir web uygulamasını sağlar. Aşağıda projenin özelliklerini ve kullanım talimatlarını bulabilirsiniz.
 
 <h2>Özellikler</h2>
-Redux Toolkit kullanılarak durum yönetimi sağlanmıştır.</br>
-Kullanıcılar, giriş ve çıkış işlemlerini gerçekleştirebilir.</br>
-Sanal bir veritabanından ürünler alınarak liste halinde görüntülenir.</br>
-Bazı ürünler, bir kaydırıcı (slider) bileşeni kullanılarak ekrana bastırılır.</br>
-Kullanıcılar, ekrandaki ürünleri sepete ekleyebilir.</br>
-Sepet sayfasında, ürün adetlerini artırıp azaltabilirler.</br>
-Ürün adetine göre fiyatlar otomatik olarak güncellenir.</br>
-Toplam fiyat, seçilen ürün sayısına göre dinamik olarak değişir.</br>
-Kullanıcılar, sayfa ilk yüklendiğinde kullanıcı adı ve şifre ile giriş yapabilir.</br>
-Giriş yapıldığında, ürünler otomatik olarak ekrana gelir.</br>
-"Hesabım" bölümünden çıkış yapılabilir ve kullanıcı giriş ekranına yönlendirilir.</br>
+<ul>
+
+    <li>Redux Toolkit kullanılarak durum yönetimi sağlanmıştır.</li>
+    <li>Kullanıcılar, giriş ve çıkış işlemlerini gerçekleştirebilir.</li>
+    <li>Sanal bir veritabanından ürünler alınarak liste halinde görüntülenir.</li>
+    <li>Bazı ürünler, bir kaydırıcı (slider) bileşeni kullanılarak ekrana bastırılır.</li>
+    <li>Kullanıcılar, ekrandaki ürünleri sepete ekleyebilir.</li>
+    <li>Sepet sayfasında, ürün adetlerini artırıp azaltabilirler</li>
+    <li>Ürün adetine göre fiyatlar otomatik olarak güncellenir.</li>
+    <li>Toplam fiyat, seçilen ürün sayısına göre dinamik olarak değişir.</li>
+    <li>Kullanıcılar, sayfa ilk yüklendiğinde kullanıcı adı ve şifre ile giriş yapabilir</li>
+    <li>Giriş yapıldığında, ürünler otomatik olarak ekrana gelir.</li>
+    <li>"Hesabım" bölümünden çıkış yapılabilir ve kullanıcı giriş ekranına yönlendirilir.</li>
+
+</ul>
 
 <h2>Kurulum</h2>
 Bu projeyi klonlayın veya ZIP olarak indirin.</br>
@@ -23,12 +27,13 @@ Projeyi başlatmak için npm start komutunu çalıştırın.</br>
 Web tarayıcınızda http://localhost:3000 adresini açın.</br>
 
 <h2>Kullanım</h2>
-Ana sayfada ürünleri görüntüleyin.</br>
-Ürünleri sepete eklemek için "+" veya "-" düğmelerini kullanın.</br>
-Sepet simgesine tıklayarak sepet sayfasına gidin.</br>
-Sepet sayfasında ürün adetlerini artırıp azaltın.</br>
-Toplam fiyatı gözlemleyin.</br>
-"Hesabım" bölümünden giriş yapın veya çıkış yapın.</br>
+<ul>
+    <li>Ana sayfada ürünleri görüntüleyin.</li>
+    <li>Ürünleri sepete eklemek için "+" veya "-" düğmelerini kullanın.</li>
+    <li>Sepet sayfasında ürün adetlerini artırıp azaltın.</li>
+    <li>Toplam fiyatı gözlemleyin.</li>
+    <li>"Hesabım" bölümünden giriş yapın veya çıkış yapın.</li>
+</ul>
 
 <h2>Redux Toolkit Kullanımı</h2>
 Bu projede Redux Toolkit, durum yönetimi için kullanılmıştır. Aşağıda Redux Toolkit ile yapılan işlemleri açıklayan adımları bulabilirsiniz:</br>
